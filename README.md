@@ -290,4 +290,4 @@ Harsh Gadhavi
 
 ## 🙏 Acknowledgments
 
-Built as with heart
+Built with heart
