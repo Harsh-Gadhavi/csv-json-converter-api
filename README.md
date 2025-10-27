@@ -290,4 +290,4 @@ Harsh Gadhavi
 
 ## 🙏 Acknowledgments
 
-Built as part of Kelp Global coding challenge.
+Built as with heart
