@@ -286,7 +286,7 @@ MIT
 
 ## 👤 Author
 
-[Your Name]
+Harsh Gadhavi
 
 ## 🙏 Acknowledgments
 
